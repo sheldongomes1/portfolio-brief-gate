@@ -61,6 +61,12 @@ examples/
 │                                   #   a thin Green, a sandbagged Red, a costly workaround…
 ├── example-run.md                  # the full skill output over those updates, gate PASSED
 └── quote-check.json                # validator input proving every example quote is verbatim
+workspace/
+├── skill.md                        # Google Workspace edition: paste into the skill's Google Doc
+├── reference/                      # rubric, watermelon check, self-check, output format, worked example
+├── examples/                       # ten test inputs with expected behavior (Skill Gate cases)
+├── MAPPING.md                      # original wording → Workspace wording, with reasons
+└── README.md                       # setup, input handling, limitations, how to verify with Skill Gate
 ```
 
 ## Worked example
